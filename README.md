@@ -29,12 +29,12 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_логин/транскрибатор.git
+   git clone https://github.com/zsfreee/Audio_Video_Transcriber.git
    ```
 
 2. Перейдите в директорию проекта:
    ```bash
-   cd транскрибатор
+   cd Audio_Video_Transcriber
    ```
 
 3. Создайте виртуальное окружение и активируйте его:
@@ -57,12 +57,12 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_логин/транскрибатор.git
+   git clone https://github.com/zsfreee/Audio_Video_Transcriber.git
    ```
 
 2. Перейдите в директорию проекта:
    ```bash
-   cd транскрибатор
+   cd Audio_Video_Transcriber
    ```
 
 3. Установите FFmpeg:
