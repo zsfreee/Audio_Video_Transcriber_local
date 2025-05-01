@@ -1,0 +1,44 @@
+# Временные файлы и директории
+temp_files/
+audio_files/
+transcriptions/
+markdown/
+__pycache__/
+
+# Python кэш
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Windows бинарники и DLL
+*.exe
+*.dll
+
+# Файлы сред разработки
+.vscode/
+.idea/
+*.swp
+.DS_Store
+*.log
+
+# Файлы с API ключами и конфигурацией
+.env
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Другие файлы
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.avi
+*.mov
+*.mkv
+*.webm
+*.flac
+*.ogg
