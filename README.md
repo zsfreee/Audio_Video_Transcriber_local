@@ -21,7 +21,7 @@
 
 - Python 3.9 или выше
 - OpenAI API ключ
-- FFmpeg (встроен для Windows, требуется установка для Linux/macOS)
+- FFmpeg
 
 ## Установка и запуск
 
